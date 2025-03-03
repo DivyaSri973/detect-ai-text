@@ -1,0 +1,99 @@
+0.0013592015020549297 0.9828405380249023 0.01580030284821987
+The reviews for this product are overwhelmingly positive. Customers appreciate its durable design, vibrant colors, and suitability for young children. Users frequently mention that it provides hours of fun and is a great value for the price. Based on this feedback, I would recommend this product for families with young children.
+{'bias_detected': False, 'bias_types': []}
+0.0013782331952825189 0.9790765047073364 0.01954532414674759
+Key highlights of this product include its bright colors, sturdy construction, and engaging design that ensures hours of entertainment for kids. Many users also praised its excellent value for money and its appeal to young children.
+{'bias_detected': False, 'bias_types': []}
+0.046547781676054 0.5429180860519409 0.41053417325019836
+While the majority of reviews are positive, a small number of users mentioned concerns about durability under heavy use. However, these instances appear to be rare and do not detract significantly from the overall user satisfaction.
+{'bias_detected': False, 'bias_types': []}
+0.9566816091537476 0.0032155837398022413 0.04010283574461937
+The reviews for this product are mostly negative, with users highlighting concerns about its quality and durability. Many users reported that it broke quickly and failed to meet expectations. Based on the available feedback, I would not recommend this product.
+{'bias_detected': True, 'bias_types': ['missing_data_acknowledgment']}
+0.8693428039550781 0.011843995191156864 0.118813157081604
+Users struggled to find significant highlights for this product, as the feedback largely focuses on its shortcomings. It is described as average at best, with no outstanding features that set it apart.
+{'bias_detected': True, 'bias_types': ['missing_data_acknowledgment']}
+0.954984188079834 0.003342429408803582 0.04167337343096733
+Yes, the most commonly reported downsides are poor quality and lack of durability. Many users expressed disappointment with the product, mentioning that it falls apart quickly and does not live up to its description.
+{'bias_detected': True, 'bias_types': ['missing_data_acknowledgment']}
+0.5219448804855347 0.08360673487186432 0.3944483995437622
+The reviews for this product are mixed. While some users enjoyed it as a family game and appreciated its concept, others found it too complicated for younger children and felt the gameplay became repetitive over time. Whether to recommend it would depend on your intended audience.
+{'bias_detected': False, 'bias_types': []}
+0.014907332137227058 0.8158707618713379 0.1692219227552414
+This product is well-regarded for being enjoyable for families and offering an engaging gameplay experience. However, it may require some guidance for younger players due to its complexity.
+{'bias_detected': False, 'bias_types': []}
+0.6213827133178711 0.03711330145597458 0.34150397777557373
+Some users noted that the game could be too complicated for younger players and that the gameplay might become repetitive after extended use. Additionally, a few users mentioned that the overall execution of the concept could be improved.
+{'bias_detected': False, 'bias_types': []}
+0.9544532895088196 0.003972665872424841 0.041574131697416306
+The reviews for this product are mostly negative. Customers frequently cited issues with its build quality, packaging, and overall value for money. Based on this feedback, I would not recommend this product.
+{'bias_detected': False, 'bias_types': []}
+0.1625174582004547 0.35720598697662354 0.48027652502059937
+While a few users appreciated its functionality, most reviews did not identify significant highlights. Positive feedback is limited to isolated cases of meeting basic expectations.
+{'bias_detected': False, 'bias_types': []}
+0.939853310585022 0.0038275166880339384 0.05631917715072632
+Yes, common downsides include poor build quality, fragile components, and a lack of value for money. Several users reported that it broke after minimal use.
+{'bias_detected': False, 'bias_types': []}
+0.0010672586504369974 0.9838918447494507 0.015040844678878784
+The reviews for this product are overwhelmingly positive. Customers praised its educational content, engaging story, and suitability for young learners. Based on this feedback, I would highly recommend this product.
+{'bias_detected': False, 'bias_types': []}
+0.0008508507744409144 0.980534017086029 0.018615106120705605
+Highlights include its engaging and educational story, which captivates young readers. Many users appreciated its ability to combine learning with entertainment, making it a valuable addition to any child’s library.
+{'bias_detected': False, 'bias_types': []}
+0.013002190738916397 0.8885893821716309 0.09840839356184006
+The reviews for this product do not mention significant downsides. It appears to be well-received across the board.
+{'bias_detected': False, 'bias_types': []}
+0.9467746615409851 0.0032699049916118383 0.04995541274547577
+The reviews for this product highlight several issues with its build quality and overall durability. Based on this feedback, I would not recommend this product.
+{'bias_detected': False, 'bias_types': []}
+0.21763963997364044 0.30356365442276 0.4787968099117279
+Users did not highlight many positive features. The most notable feedback was related to its potential if the build quality were improved.
+{'bias_detected': False, 'bias_types': []}
+0.9223365783691406 0.0031489264219999313 0.07451456040143967
+Yes, the most common complaints include flimsy construction, poor durability, and a lack of alignment with its product description.
+{'bias_detected': False, 'bias_types': []}
+
+
+
+
+
+
+
+
+
+rn_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+ASIN: 0975277324
+Bias Detected Count: 3
+Bias Types: missing_data_acknowledgment, over_reliance_on_negative
+Responses: ['The reviews for this product are mostly negative, with users highlighting concerns about its quality and durability. Many users reported that it broke quickly and failed to meet expectations. Based on the available feedback, I would not recommend this product.', 'Users struggled to find significant highlights for this product, as the feedback largely focuses on its shortcomings. It is described as average at best, with no outstanding features that set it apart.', 'Yes, the most commonly reported downsides are poor quality and lack of durability. Many users expressed disappointment with the product, mentioning that it falls apart quickly and does not live up to its description.']
+
+
+ASIN: B00000IZJB
+Bias Detected Count: 2
+Bias Types: over_reliance_on_negative
+Responses: ['The reviews for this product are mostly negative. Customers frequently cited issues with its build quality, packaging, and overall value for money. Based on this feedback, I would not recommend this product.', 'While a few users appreciated its functionality, most reviews did not identify significant highlights. Positive feedback is limited to isolated cases of meeting basic expectations.', 'Yes, common downsides include poor build quality, fragile components, and a lack of value for money. Several users reported that it broke after minimal use.']
+
+
+ASIN: B00005O6B7
+Bias Detected Count: 2
+Bias Types: over_reliance_on_negative
+Responses: ['The reviews for this product highlight several issues with its build quality and overall durability. Based on this feedback, I would not recommend this product.', 'Users did not highlight many positive features. The most notable feedback was related to its potential if the build quality were improved.', 'Yes, the most common complaints include flimsy construction, poor durability, and a lack of alignment with its product description.']
+
+
+ASIN: 0975277324
+Bias Detected Count: 3
+Bias Types: over_reliance_on_negative, missing_data_acknowledgment
+Responses: ['The reviews for this product are mostly negative, with users highlighting concerns about its quality and durability. Many users reported that it broke quickly and failed to meet expectations. Based on the available feedback, I would not recommend this product.', 'Users struggled to find significant highlights for this product, as the feedback largely focuses on its shortcomings. It is described as average at best, with no outstanding features that set it apart.', 'Yes, the most commonly reported downsides are poor quality and lack of durability. Many users expressed disappointment with the product, mentioning that it falls apart quickly and does not live up to its description.']
+
+
+ASIN: B00000IZJB
+Bias Detected Count: 2
+Bias Types: over_reliance_on_negative
+Responses: ['The reviews for this product are mostly negative. Customers frequently cited issues with its build quality, packaging, and overall value for money. Based on this feedback, I would not recommend this product.', 'While a few users appreciated its functionality, most reviews did not identify significant highlights. Positive feedback is limited to isolated cases of meeting basic expectations.', 'Yes, common downsides include poor build quality, fragile components, and a lack of value for money. Several users reported that it broke after minimal use.']
+
+
+ASIN: B00005O6B7
+Bias Detected Count: 2
+Bias Types: over_reliance_on_negative
+Responses: ['The reviews for this product highlight several issues with its build quality and overall durability. Based on this feedback, I would not recommend this product.', 'Users did not highlight many positive features. The most notable feedback was related to its potential if the build quality were improved.', 'Yes, the most common complaints include flimsy construction, poor durability, and a lack of alignment with its product description.']
